@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+p{
+    color: #979797;
+    font-size: 15px;
+}
+
+.bg-main{
+    background-color: #3869E2;
+}
+
+.hover-btn{
+    background-color: #325FCB;
+}
+
+.inter{
+    font-family: "Inter", sans-serif;
+}
+
+.rd{
+    color: #EA0E00;
+}
+
+.bg-bl{
+    background-color: #171717;
+}
